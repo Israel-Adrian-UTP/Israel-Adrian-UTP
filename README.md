@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/Israel-Adrian-UTP">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=762&text=Hi!%20Soy%20Israel%20Adrian" alt="Hi! Soy Israel Adrian" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=794&text=Hi!%20I'am%20Israel%20Adrian" alt="Hi! I&#39;am Israel Adrian" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=790&height=44&lines=Estudiante%20De%20La%20Carrera%20De%20Ingenieria%20De%20Sistemas" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=670&height=44&lines=Student%20in%20the%20Systems%20Engineering%20Program" alt="Typing headlines" />
 </p>
 
 ### 🛠️ Tech Stack
