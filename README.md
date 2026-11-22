@@ -1,7 +1,11 @@
 <p align="center">
   <a href="https://github.com/Israel-Adrian-UTP">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=762&text=Hi!%20Soy%20Israel%20Adrian" alt="Hi! Soy Israel Adrian" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=790&height=44&lines=Estudiante%20De%20La%20Carrera%20De%20Ingenieria%20De%20Sistemas" alt="Typing headlines" />
 </p>
 
 ### 🛠️ Tech Stack
@@ -30,14 +34,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Israel-Adrian-UTP&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Israel-Adrian-UTP&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Israel-Adrian-UTP&show_icons=true&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Israel-Adrian-UTP&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Israel-Adrian-UTP&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
